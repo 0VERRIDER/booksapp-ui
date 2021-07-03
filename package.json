@@ -1,0 +1,24 @@
+{
+  "name": "booksapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "@creative-tim-official/argon-dashboard-free": "^1.2.0",
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0VERRIDER/booksapp-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0VERRIDER/booksapp-ui/issues"
+  },
+  "homepage": "https://github.com/0VERRIDER/booksapp-ui#readme"
+}
