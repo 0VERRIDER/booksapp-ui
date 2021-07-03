@@ -39,7 +39,7 @@ var paths = {
         node: 'node_modules'
     },
     src: {
-        index: '/pages/dashboards/dashboard.html',
+        index: '/index',
         base: './',
         css:  'assets/css',
         html: '**/*.html',
